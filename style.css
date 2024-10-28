@@ -66,3 +66,12 @@ body{
   width: 500px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
 }
+li > .spotify:hover{
+  color: green;
+  transition: 0.3s;
+}
+
+li > .github:hover{
+  color: purple;
+  transition: 0.3s;
+}
