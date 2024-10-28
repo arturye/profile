@@ -61,3 +61,8 @@ body{
   display: inline;
   padding: 7px;
 }
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
